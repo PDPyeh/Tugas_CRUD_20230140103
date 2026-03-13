@@ -9,3 +9,6 @@ put/update
 <img width="1259" height="324" alt="image" src="https://github.com/user-attachments/assets/09dab5c1-a9b6-4983-bfe7-aa80cae7ac44" />
 delete
 <img width="1265" height="316" alt="image" src="https://github.com/user-attachments/assets/84f3f645-fcc4-46da-a3d6-693f8e48f3c6" />
+
+## Web
+<img width="2547" height="1463" alt="image" src="https://github.com/user-attachments/assets/07c0ba18-a69b-46b4-ab4d-a4bdd764bdb7" />
