@@ -61,10 +61,10 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public userDto UpdateUser(String id, UserAddRequest request) {
+    public userDto UpdateUser(Integer id, UserAddRequest request) {
         validationUtil.validate(request);
 
-        Ktp existingUser = userRepository.findById(Integer.parseInt(id))
+        Ktp existingUser = userRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("user not found"));
 
         existingUser.setNomorKtp(request.getNomorKtp());
